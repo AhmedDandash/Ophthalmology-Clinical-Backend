@@ -24,4 +24,4 @@ DB_URI=mongodb:YOUR_DB_LINK <br>
 JWT_SECRET=your_jwt_secret <br>
 
 # Start the server:
-npm start
+nodemon app.js
