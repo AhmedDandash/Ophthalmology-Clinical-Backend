@@ -9,21 +9,19 @@ Appointment Scheduling: Efficiently schedule, reschedule, and cancel appointment
 Billing and Invoicing: Generate invoices, process payments, and manage insurance claims.
 
 # Prerequisites
-Node.js (v14.x or later)
-npm (v6.x or later)
-MongoDB (v4.x or later)
-Installation
-Clone the repository:
+Node.js (v14.x or later) <br>
+npm (v6.x or later) <br>
+MongoDB (v4.x or later)<br>
 
 # Install dependencies:
 npm install
 
 # Set up environment variables:
-Create a .env file in the root directory and add the following:
-.env
-PORT=Your_port
-DB_URI=mongodb:YOUR_DB_LINK
-JWT_SECRET=your_jwt_secret
+Create a .env file in the root directory and add the following: <br>
+.env <br>
+PORT=Your_port <br>
+DB_URI=mongodb:YOUR_DB_LINK <br>
+JWT_SECRET=your_jwt_secret <br>
 
 # Start the server:
 npm start
